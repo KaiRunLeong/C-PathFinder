@@ -1,6 +1,6 @@
 # INSTRUCTIONS TO COMPILE AND PLAY
 
-The program has already been compiled by the g++ compiler before pushing this code to github. to run the program, simple use the following command in the terminal: ./play < \<testCase under testCases directory>
+The program has already been compiled by the g++ compiler before pushing this code to github. To run the program, simple use the following command in the terminal: ./play < \<testCase under testCases directory>
 
 EXAMPLE:
 To run object (compiled program) file: ./play < tessCases/sample01.env
